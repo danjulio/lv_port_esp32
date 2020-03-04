@@ -15,6 +15,10 @@ Supported touchscreen controllers:
 - other FT6X36 or the FT6206 controllers should work as well (not tested)
 - STMPE610
 
+## Note
+
+The HX8357 and STMPE610 were merged with the original project.  You should check there for the latest updates.  This repository remains for historic reasons and as a destination for links on the web.
+
 ## Get started 
 ### Install the ESP32 SDK
 http://esp-idf.readthedocs.io/en/latest/
